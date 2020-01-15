@@ -1,11 +1,9 @@
 # simple_folding_cell
 
-&#x27;A new Flutter project. Created by Slidy&#x27;
-
-## Getting Started
-
 Este projeto faz parte do meus aprendizado com esse framework maravilhoso.
 Siga para novidades e deixe seu star.
+
+## Getting Started
 
 - [Flutterando: O Maior canel de Flutter do Brasil](http://flutterando.com.br)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
